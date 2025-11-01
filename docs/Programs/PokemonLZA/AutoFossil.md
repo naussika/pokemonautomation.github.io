@@ -2,7 +2,7 @@
 
 ## Program Description
 
-Hunt alpha and/or shiny fossil Pokémon by repeated reviving them and checking them in box.
+Hunt alpha and/or shiny fossil Pokémon by repeatedly reviving them and checking them in box.
 For efficiency, the program always chooses the first option when selecting which fossil to revive.
 
 
@@ -21,20 +21,20 @@ For efficiency, the program always chooses the first option when selecting which
 
 Choose what the program stops on:
 
-- A shiny fossil Pokémon
-- An alpha fossil Pokémon
-- A shiny or alpha fossil Pokémon
-- A shiny alpha fossil Pokémon
+- Stops on a shiny fossil Pokémon
+- Stops on an alpha fossil Pokémon
+- Stops on a shiny or an alpha fossil Pokémon
+- Stops on a shiny alpha fossil Pokémon
 
-### How many fossils to revive before checking them in box
+### How many Fossils
 
-The more fossils to revive in one go, the more efficient the program is. Fossil shiny chance is not affected by the shiny charm. So we would want every little speed we can get.
+How many fossils to revive in one go before checking whether they are shiny and/or alpha in box. The more fossils you revive in one go, the more efficient the program is. Fossil shiny chance is not affected by the shiny charm. So we would want every little speed we can get.
 
-### Take a Video on Switch when found
+### Take Video
 
 Record a video when found a match.
 
-### Go home when done
+### Go Home When Done
 
 When program finishes, whether to go to Switch home screen.
 
