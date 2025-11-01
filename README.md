@@ -20,7 +20,7 @@ If you are part of the developer team and want to push changes to pokemonautomat
 To develop the website locally on your PC, you need to install MkDocs Material
 
 ```
-pip install mkdocs-material
+pip install mkdocs-material "mkdocs-material[imaging]"
 ```
 
 For macOS, you also need to install some system-wide libraries (we install them via Homebrew):
