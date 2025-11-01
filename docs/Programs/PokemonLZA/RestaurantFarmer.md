@@ -51,10 +51,10 @@ With battle AI enabled, have 4 strong moves of different types that maximize typ
 
 When to pick each restaurant:
 
-- **Restaurant Le Nah**: You want to farm battle wins for Mable's Research or you want to farm some money but dont have much money-in-hand and dont have Pokemon trained for harder restaurants
-- **Restaurant Le Yeah**: You want to farm some exp but dont have Pokemon trained for harder restaurants
-- **Restaurant Le Wow**: You want to farm lots of exp and good money. You have some money-in-hand and have leveled up and trained Pokemon
-- **Sushi High Roller**: You want to maximize money farming and/or farm Seeds of Mastery. You have lots of money-in-hand and have relatively leveled and trained Pokemon
+- **Restaurant Le Nah**: You want to farm battle wins for Mable's Research or you want to farm some money but dont have much money-in-hand and dont have Pokémon trained for harder restaurants
+- **Restaurant Le Yeah**: You want to farm some exp but dont have Pokémon trained for harder restaurants
+- **Restaurant Le Wow**: You want to farm lots of exp and good money. You have some money-in-hand and have leveled up and trained Pokémon
+- **Sushi High Roller**: You want to maximize money farming and/or farm Seeds of Mastery. You have lots of money-in-hand and have relatively leveled and trained Pokémon
 
 <Table>
   <tr>
@@ -150,20 +150,20 @@ When to pick each restaurant:
   </tr>
 </Table>
 
-\* Values are estimates with 3 Gold Canari Plush. Time estimates are taken from optimized runs with quick KOs and a single Pokemon  
+\* Values are estimates with 3 Gold Canari Plush. Time estimates are taken from optimized runs with quick KOs and a single Pokémon  
 \*\* Le Yeah's 30x Tiny Mushroom reward can hit the 999 item limit which significantly cuts into profit. This maxes out in an estimated 3 hours  
 \*\*\* Le Wow and Sushi High Roller give the most money but rely heavily on item rewards for that money. Your money-in-hand will actually decrease over time so you need initial seed money. You cannot run these indefinitely
 
-### Recommended Pokemon
+### Recommended Pokémon
 
 **Restaurant Le Nah**: No special considerations
 
-**Restaurant Le Yeah**: To avoid being stalled by Talonflame/Altaria, choose Pokemon with these attributes:
+**Restaurant Le Yeah**: To avoid being stalled by Talonflame/Altaria, choose Pokémon with these attributes:
 
-  - Talonflame's Flame Wheel should not be the highest damaging option against your Pokemon. Talonflame's moves are Hurricane, Flame Wheel, U-Turn, and Steel Wing
+  - Talonflame's Flame Wheel should not be the highest damaging option against your Pokémon. Talonflame's moves are Hurricane, Flame Wheel, U-Turn, and Steel Wing
   - The highest priority move should one-hit KO Talonflame. Talonflame is level 45 so the bar is fairly low.
 
-**Restaurant Le Wow**: The hardest restaurant which encourages high leveled and EV trained Pokemon
+**Restaurant Le Wow**: The hardest restaurant which encourages high leveled and EV trained Pokémon
 
 - Dragalge can solo the entire round and is likely the only solo option for long term farming. This leaves 5 open slots for exp training:
 
@@ -183,20 +183,20 @@ When to pick each restaurant:
       </tr>
     </table>
   
-- Considerations when using your own Pokemon
+- Considerations when using your own Pokémon
   
     - Some form of healing is recommended. Shell Bell and/or draining moves are good options
-    - The first opponent will attempt to poison you. The Pokemon that's sent out first will likely faint to this if it's not Poison or Steel type
-    - The second opponent can potentially burn your Pokemon. It will cripple physical attackers and your Pokemon may not be able to outheal the burn
-    - The second opponent also has moves that can angle the camera away and kill the run if the Pokemon are not immediately one-hit KO'd
+    - The first opponent will attempt to poison you. The Pokémon that's sent out first will likely faint to this if it's not Poison or Steel type
+    - The second opponent can potentially burn your Pokémon. It will cripple physical attackers and your Pokémon may not be able to outheal the burn
+    - The second opponent also has moves that can angle the camera away and kill the run if the Pokémon are not immediately one-hit KO'd
     - The fourth opponent has Rocky Helmet and stall tactics. If you're using contact moves, you may take significant damage here
     - The best defense is a good offense, you'll take more damage if you're not able to quickly one-hit KO your opponents
 
 
-**Sushi High Roller**: 3 Pokemon at once. You'll want something to KO everything quickly
+**Sushi High Roller**: 3 Pokémon at once. You'll want something to KO everything quickly
 
 - The player is not immune to damage here so you can lose if the player takes too much damage from stray attacks
-- Choose Pokemon that have good ranged AOE moves that can knock out all 3 Pokemon quickly in one move to maximize your earnings and minimize player damage. Examples: Surf, Sludge Wave
+- Choose Pokémon that have good ranged AOE moves that can knock out all 3 Pokémon quickly in one move to maximize your earnings and minimize player damage. Examples: Surf, Sludge Wave
 - Examples of builds that can solo the entire round. Many other great options exist:
   
     <table>
@@ -235,6 +235,7 @@ When to pick each restaurant:
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
