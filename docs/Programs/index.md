@@ -322,7 +322,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 ||
 | **General:** |
 | [Clothing Buyer](PokemonLZA/ClothingBuyer.md)                          | Purchase clothing from shops.                          | Video         | All |
-| [Berry Buyer](PokemonLZA/BerryBuyer.md)                                | Purchase berries from stalls.                          | Video         | All |
+| [Stall Buyer](PokemonLZA/StallBuyer.md)                                | Purchase berries from stalls.                          | Video         | All |
 ||
 | **Farming:** |
 | [Restaurant Farmer](PokemonLZA/RestaurantFarmer.md)                    | Farm the restaurant battles for exp, items, and money. | Video         | All |
