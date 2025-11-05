@@ -302,6 +302,12 @@ If in step 5, you are unable to connect to the Switch, (controller never shows u
 - Is it already paired with a different Switch?
 - There are reports of CFW ldm-mitm interfering with the ESP32. (This is a bug which we have yet to investigate.)
 
+### ESP32 immediately gets "Disconnected by Console"
+
+This happens normally when the Switch goes to sleep. But if it is happening immediately upon connecting or clicking "Reset Ctrl.", it means it has been banned by the Switch as a result of [Issue 800](https://github.com/PokemonAutomation/Arduino-Source/issues/800).
+
+The only way to clear this ban is to re-pair the ESP32. So return to the grip menu (by other means of course), then SHIFT-click the "Reset Ctrl." button. This will clear the pairing and force the ESP32 to re-pair with the Switch.
+
 ### Wireless Interference with Multiple ESP32s.
 
 If you have multiple ESP32s, spread them out to reduce wireless interference.
@@ -324,6 +330,7 @@ It is as cute as it is stupid, and it will give you problems. We tried it so you
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
