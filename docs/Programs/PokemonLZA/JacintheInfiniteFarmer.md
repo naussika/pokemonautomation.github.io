@@ -1,4 +1,4 @@
-# Jacinthe Infinite Farmer
+# Jacinthe Infinite Farmer (In Beta, Not Released Yet)
 
 ## Program Description
 

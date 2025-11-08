@@ -1,4 +1,4 @@
-# Self Box Trade
+# Self Box Trade (In Beta, Not Released Yet)
 
 ## Program Description
 

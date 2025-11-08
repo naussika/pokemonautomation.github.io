@@ -1,4 +1,4 @@
-# Auto Fossil
+# Auto Fossil (In Beta, Not Released Yet)
 
 ## Program Description
 
