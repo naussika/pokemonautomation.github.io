@@ -105,7 +105,7 @@ Record a video of the encounter. This will happen each time a notification is se
 
 ## Program Description
 
-Shiny hunt by repeatedly fast traveling to a wild zone entrance. This will shiny hunt all spawns within 50m of the entrance and further if you also set to walk into the zone for a short period of time. Currently the program cannot reliably resolve being chased by wild Pokémon. Therefore it is not appropriate to talke a long walk in a zone or even enter at all for some zones (e.g. *Zone 19*).
+Shiny hunt by repeatedly fast traveling to a wild zone entrance. This will shiny hunt all spawns within 50m of the entrance and further if you also set to walk into the zone for a short period of time. Currently the program cannot reliably resolve being chased by wild Pokémon. Therefore it is not appropriate to take a long walk in a zone or even enter at all for some zones (e.g. *Zone 19*).
 
 With the Shiny Charm you will get a shiny Pokémon quite fast if there are many Pokémon spawned around the entrance. Don't let the program run for too long or have old shinies overwritten by new ones.
 
@@ -164,7 +164,7 @@ For more info regarding Pokémon spawners, check the maps from [Serebii](https:/
 <img src="images/ShinyHunt-WildZoneEntrance-ShalphaMagikarp.png">
 <img src="images/ShinyHunt-WildZoneEntrance-Salamence.png">
 
-Potentially usefull tip: if a Pokémon that should be spawned within 50m does not spawn when running the program, try first moving closer to this spawner manually without being chased by wild Pokémon, then fast travel back to the entrance and start the program. This is the trick to enable Beldum teleporter hunting in Lysandre Lab. It could help in wild zones as well.
+Potentially usefull tip: if a Pokémon that should be spawned within 50m does not spawn when running the program, try first moving closer to this spawner to spawn the Pokémon manually without being chased by wild Pokémon, then fast travel back to the entrance and start the program. This is the trick to enable Beldum teleporter hunting in Lysandre Lab. It could help in wild zones as well.
 
 ## Options
 
@@ -176,13 +176,13 @@ Pick which Wild Zone you are hunting. This option is important for the program t
 
 - **No movement**. Fast travel repeatedly in front of the wild zone entrance. Safe from wild Pokémon.
 - **Approach Gate But Don't Enter**. Safe from wild Pokémon.
-- **Enter Zone**. Potential danger from wild Pokémon. Pick a safe walk-in distance.
+- **Enter Zone**. Potential danger from wild Pokémon. Pick a safe walk-in distance. Don't choose this on a zone where wild Pokémon notices you when entering.
 
 ### Walk Time in Zone
 
 Walk this long in the zone after passing through the gate.
 
-### RUNNING
+### Running
 
 Running instead of walking while in the zone.
 
