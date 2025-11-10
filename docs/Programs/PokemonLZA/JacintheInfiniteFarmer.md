@@ -1,4 +1,4 @@
-# Jacinthe Infinite Farmer
+# Jacinthe Infinite Farmer (In Beta, Not Released Yet)
 
 ## Program Description
 
@@ -56,6 +56,10 @@ In both modes, if your Pokémon faints, it will automatically timeout and switch
 - Your party is healed automatically when starting the battle. No need to heal it beforehand.
 
 - Due to randomness during battle, occasionally the program may fail to beat Jacinthe. Unlike the restaurants, it costs nothing to challenge her. So you won't lose money by leaving the program running unattended. But once the program fails the battle, the starting Pokémon may likely not be your strongest counter against Jacinthe any more, reducing farming efficiency until the counter becomes the starting Pokémon again. If you don't care about earning exp, you can bring only the counter in your party to address this.
+
+### Aim for Highest Streak!
+
+<img src="images/Jacinthe1600.jpg">
 
 ## Credits
 

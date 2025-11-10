@@ -322,13 +322,20 @@ This game cannot be played with a Pro Controller and instead requires the use of
 ||
 | **General:** |
 | [Clothing Buyer](PokemonLZA/ClothingBuyer.md)                          | Purchase clothing from shops.                          | Video         | All |
+| [Stall Buyer](PokemonLZA/StallBuyer.md)                                | Purchase items from stalls.                            | Video         | All |
+| [Self Box Trade](PokemonLZA/SelfBoxTrade.md)                           | Trade boxes of Pokémon between two Switches locally.   | Video         | All |
+| [Post-Kill Catcher](PokemonLZA/PostKillCatcher.md)                     | Reset and throw balls at something until it catches.   | Video         | All |
+||
+| **Farming:** |
 | [Restaurant Farmer](PokemonLZA/RestaurantFarmer.md)                    | Farm the restaurant battles for exp, items, and money. | Video         | All |
 | [Mega Shard Farmer](PokemonLZA/MegaShardFarmer.md)                     | Farm Mega Shards.                                      | Video         | All |
+| [Jacinthe Infinite Farmer](PokemonLZA/JacintheInfiniteFarmer.md)       | Repeatedly battle Jacinthe for exp and money.          | Video         | All |
 ||
 | **Shiny Hunting:** |
 | [Shiny Hunt - Bench Sit](PokemonLZA/ShinyHunt-BenchSit.md)             | Shiny hunt using the bench reset method.               | Video + Audio | All |
 | [Shiny Hunt - Overworld Reset](PokemonLZA/ShinyHunt-OverworldReset.md) | Shiny hunt using the overworld reset method.           | Video + Audio | All |
-| [Shiny Hunt - Wild Zone Entrance](PokemonLZA/ShinyHunt-WildZoneEntrance.md) | Shiny hunt at wild zone entrance using fast travel method.           | Video + Audio | All |
+| [Shiny Hunt - Wild Zone Entrance](PokemonLZA/ShinyHunt-WildZoneEntrance.md) | Shiny hunt at wild zone entrance using fast travel method. | Video + Audio | All |
+| [Auto Fossil](PokemonLZA/AutoFossil.md)                                | Find shiny or alpha fossil Pokémon, by repeatedly reviving fossils.                    | Video         | All |
 
 
 ## Zelda: Tears of the Kingdom
@@ -346,6 +353,9 @@ This game cannot be played with a Pro Controller and instead requires the use of
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
+
 
 
 
