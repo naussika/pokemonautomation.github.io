@@ -1,9 +1,8 @@
 # Nintendo Switch 2 Support
 
-Nintendo launched the Switch 2 in June 2025 and it completely turned this project upside down.
-Nevertheless, we are in the process of fixing the project to work on Switch 2.
+Nintendo launched the Switch 2 in June 2025 and broke nearly everything. As of August 2025, almost everything is fixed.
 
-In the meantime, here are some notes regarding Switch 2 automation that will differ from Switch 1.
+Here are some notes regarding Switch 2 automation that will differ from Switch 1.
 
 ## General Setup Requirements
 
@@ -14,6 +13,7 @@ This is the tl;dr if you just want to know what settings to use for Switch 2.
 - Switch menu theme must be either light or dark theme.
 - Colors should be normal, not greyscale or inverted.
 - Text size should be normal. Not large.
+- All HDR options must be disabled.
 
 **Other Settings:**
 
@@ -120,4 +120,5 @@ In the vast majority of cases, this does not matter since buttons need to be hel
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
