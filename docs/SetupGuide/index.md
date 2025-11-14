@@ -175,7 +175,8 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 - **Disable Sticky Keys:** The SHIFT key is mapped to the B button. So if you press it 5 times in the row, you will get a notification about sticky keys. You should turn it off.
 - **Per-Program Wiki:** The top of the window is a link to wiki for the currently selected program. It will contain instructions on how to use the program.
 - **Full Screen:** Double click a video feed to pop it out into a separate window. Double click the popped-out window again to full screen. ESC will exit full screen.
-- **Saving Settings:** Settings are automatically saved when you close a program.
+- **Switching Controllers:** Games like Pokémon only allow one controller to be connected at a time. This means you cannot have both your microcontroller board and your real controller connected at the same time. To easily swap between the device and your real (physical) controller, you can change the controller type to "None".
+- **Saving Settings:** Settings are automatically saved when you close a program. Note that this is only supported by the ESP32, ESP32-S3, and Pico W setups. The other setups only have one controller type which cannot be turned off.
 - **Console Settings** (controller, video, audio) are saved on a per-program basis rather than globally. (This is due to the existence of multi-Switch programs where it makes less sense to save globally.) So every time you switch to different program, you may need to re-enter everything. Needless to say, this can be annoying and inconvenient. Use the "Save Profile" and "Load Profile" buttons to easily save and load console settings across programs.
 - **Upgrading:** To upgrade to a new version of the CC programs, download and unzip the new version. Then copy and paste the folder `UserSettings/` into the same place of the new version. This will transfer over all of your settings and program stats.
 - **Suppress Screensaver:** If you are using the CC program to play your Switch manually using an external controller, the screensaver will likely kick on or your monitors will turn off due to inactivity on the computer. At the bottom left corner is an option called "Sleep Suppress". Check the box to force your computer to keep the monitors on so this doesn't happen. Just remember to turn it off when you are done or your monitors will stay on forever!
@@ -192,6 +193,7 @@ Here are some misc. tips/tricks, and other hidden features of the CC programs!
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
