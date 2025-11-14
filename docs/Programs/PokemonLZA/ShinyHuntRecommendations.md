@@ -2,6 +2,8 @@
 
 ## Shiny Hunt - Bench Sit
 
+Program: [Shiny Hunt - Bench Sit](ShinyHunt-BenchSit.md)
+
 Right click -> Open Image for larger size.
 
 | **Pokemon**  | **Instructions/Settings** | **Screenshots** |
@@ -13,7 +15,7 @@ Right click -> Open Image for larger size.
 
 ## Shiny Hunt - Wild Zone Entrance
 
-Fly to listed Wild Zone Entrance before starting the program.
+Program: [Shiny Hunt - Wild Zone Entrance](ShinyHunt-WildZoneEntrance.md)
 
 | **Pokemon** | **Instructions/Settings** | **Screenshots** |
 | --- | --- | --- |
@@ -24,7 +26,7 @@ Fly to listed Wild Zone Entrance before starting the program.
 
 ## Turbo A
 
-The [Turbo A](../NintendoSwitch/TurboA.md) program is located under the Nintendo Switch category.
+Program: [Turbo A](../NintendoSwitch/TurboA.md) (located under the Nintendo Switch category)
 
 | **Pokemon**  | **Instructions** | **Screenshots** |
 | --- | --- | --- |
