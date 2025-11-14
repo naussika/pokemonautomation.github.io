@@ -316,6 +316,8 @@ This game cannot be played with a Pro Controller and instead requires the use of
 
 ## Pokémon Legends ZA
 
+See also: [Shiny Hunting Recommendations](PokemonLZA/ShinyHuntRecommendations.md)
+
 | **Program** | **Description** | **Feedback** | **Controllers** |
 | --- | --- | --- | --- |
 | Game Settings | --- | --- | --- |
@@ -336,7 +338,10 @@ This game cannot be played with a Pro Controller and instead requires the use of
 | [Shiny Hunt - Bench Sit](PokemonLZA/ShinyHunt-BenchSit.md)             | Shiny hunt using the bench reset method.               | Video + Audio | All |
 | [Shiny Hunt - Overworld Reset](PokemonLZA/ShinyHunt-OverworldReset.md) | Shiny hunt using the overworld reset method.           | Video + Audio | All |
 | [Shiny Hunt - Wild Zone Entrance](PokemonLZA/ShinyHunt-WildZoneEntrance.md) | Shiny hunt at wild zone entrance using fast travel method. | Video + Audio | All |
-| [Auto Fossil](PokemonLZA/AutoFossil.md)                                | Find shiny or alpha fossil Pokémon, by repeatedly reviving fossils.                    | Video         | All |
+| [Auto Fossil](PokemonLZA/AutoFossil.md)                                | Find shiny or alpha fossil Pokémon, by repeatedly reviving fossils. | Video         | All |
+||
+| **Non-Shiny Hunting:** |
+| [Stats Reset](PokemonLZA/StatsReset.md)                                | Reset for stats on gift Pokémon like Eternal Flower Floette. | Video         | All |
 
 
 ## Zelda: Tears of the Kingdom
@@ -354,6 +359,7 @@ This game cannot be played with a Pro Controller and instead requires the use of
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
 
 
 
